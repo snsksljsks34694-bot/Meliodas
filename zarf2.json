@@ -1,0 +1,33 @@
+{
+  "reaction": "🪭",
+  "reaction_status": "on",
+
+  "group": {
+    "status": "on",
+    "newSubject": "مزروف ┇✯┇ 𝐌𝐞𝐥𝐢𝐨𝐝𝐚𝐬ｼ",
+
+    "newDescription": "━━━━━━━━━━━━━━━                   🩸 انزرفت وتريد تنتقم؟\n🔥 ادخل عالم التحدي وشوف كيف جلدتكم!\n\n┇Chat_Isagi┇\n                   https://chat.whatsapp.com/DRKhIq4OETKFPICAJFJJUx\n━━━━━━━━━━━━━━━\n"
+  },
+
+  "messages": {
+    "status": "on",
+    "text": ""
+  },
+
+  "media": {
+    "status": "on",
+    "image": "image.jpeg"
+  },
+
+  "audio": {
+    "status": "on",
+    "file": "sounds/AUDIO.mp3"
+  },
+
+  "sticker": {
+    "status": "on",
+    "file": "stickers/STICKER.webp"
+  },
+
+  "rights": "Meliodas"
+}
